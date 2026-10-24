@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>VoiceInput 只在你按住语音快捷键时使用麦克风，把你说的话转换成文字。录音不会被保存。</string>
+  <key>NSAppleEventsUsageDescription</key>
+  <string>VoiceInput 需要向当前应用发送粘贴指令，把识别出的文字输入到光标位置。</string>
+  <key>LSApplicationCategoryType</key>
+  <string>public.app-category.productivity</string>
+</dict>
+</plist>
